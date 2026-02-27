@@ -1,0 +1,5 @@
+{
+  "name": "Millie's horse race",
+  "description": "A horse racing game where you tap alternately with two fingers to make your horse run.",
+  "requestFramePermissions": ["camera"]
+}
